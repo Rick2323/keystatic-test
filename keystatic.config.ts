@@ -8,7 +8,8 @@ export default config({
     repo: {
       owner: "Rick2323",
       name: "keystatic-test"
-    }  
+    },
+    branchPrefix: "my-prefix/"
     // kind: "local"
   },
   collections: {
